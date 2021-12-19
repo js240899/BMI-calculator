@@ -35,7 +35,7 @@ const App = () => {
         onChange = {
             (e) => setHeight(e.target.value) }
         /> <
-        br / >
+        br / ><br/>
         <
         label
         for = "weight"
